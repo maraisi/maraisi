@@ -1,6 +1,8 @@
 <h1 align = "center"> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hi there!</h1>
 
-<p align = "center"> Welcome to my github profile. My name is Maraísi.<br> I'm a student and a developer-to-be from Brazil.</p>
+<p align = "center"><samp>Welcome to my github profile. My name is Maraísi.<br>I'm a mechanical engineering student and a developer-to-be from Brazil.</samp></p>
+
+<p align=center><img src="https://github.com/es/Octocat/blob/master/img/baracktocat.jpg" width=300> </p>
 
 <!--- redes sociais -->
 <p align = "center"><a href="https://www.linkedin.com/in/maraisi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
