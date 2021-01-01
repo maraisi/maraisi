@@ -2,11 +2,11 @@
 
 <p align = "center"><samp>Welcome to my github profile. My name is Maraísi.<br>I'm a mechanical engineering student and a developer-to-be from Brazil.</samp></p>
 
-<p align=center><img src="https://github.com/es/Octocat/blob/master/img/baracktocat.jpg" width=300> </p>
+<p align=center><img src="https://github.com/es/Octocat/blob/master/img/baracktocat.jpg" width=95> </p>
 
 <!--- redes sociais -->
 <p align = "center"><a href="https://www.linkedin.com/in/maraisi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<!--  <a href="https://www.instagram.com/maraisidepaula/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p> -->
+
 
 <!---linguagens e tecnologias -->
 
