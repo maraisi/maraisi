@@ -1,6 +1,6 @@
 <h1 align = "center"> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Hi there!</h1>
 
-<p align = "center"><samp>Welcome to my github profile. My name is Maraísi.<br>I'm a mechanical engineering student and a developer-to-be from Brazil.</samp></p>
+<p align = "center"><samp>Welcome to my github profile.<br>I'm a mechanical engineering student and a developer-to-be from Brazil.</samp></p>
 
 <p align=center><img src="https://github.com/es/Octocat/blob/master/img/baracktocat.jpg" width=95> </p>
 
@@ -12,11 +12,12 @@
 
 <p align = "center"><img alt="html5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3" />
+<img alt="linux" src="https://img.shields.io/badge/-JAVASCRIPT-000?style=flat-square&logo=javascript"/>
 <img alt="kotlin" src="https://img.shields.io/badge/-KOTLIN-000?style=flat-square&logo=kotlin"/>
 <img alt="android" src="https://img.shields.io/badge/-ANDROID-000?style=flat-square&logo=android"/>
 <img alt="git" src="https://img.shields.io/badge/-GIT-000?style=flat-square&logo=git"/>
 <img alt="linux" src="https://img.shields.io/badge/-LINUX-000?style=flat-square&logo=linux"/>
-
+<img alt="linux" src="https://img.shields.io/badge/-PYTHON-000?style=flat-square&logo=python"/>
 </p> 
 
 </div>
